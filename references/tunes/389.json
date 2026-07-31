@@ -1,0 +1,25 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 389,
+  "name": "风入松",
+  "type": "Ping",
+  "aliases": [
+    "风入松慢",
+    "远山横"
+  ],
+  "description": "古琴曲有《风入松》。唐僧皎然有《风入松》歌，见《乐府诗集》，调名本此。《宋史·乐志》注“林钟商”。元高拭词注“仙吕调”，又“双调”。蒋氏《十三调》注“双调”。亦名《风入松慢》。韩淲词有“小楼春映远山横”句，名《远山横》。",
+  "writingCount": 479,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调七十四字，前后段各六句、四平韵",
+    "Comment": "此调以此词及吴词为正体，若赵词、康词之减字，皆变格也。\n此词前后段第二句各四字，宋周紫芝、赵师侠、曹冠、谢懋、陆游、高观国、史达祖、韩淲、李肩吾、赵闻礼诸词与此同。\n按晏词别首前段起句“心心念念忆相逢”，上“念”字仄声。曹词第三句“澄江金斗平波面”，“澄”字、“金”字俱平声。高词第四句“长桥爱花柳多情”，“长”字平声，“爱”字仄声。晏词第五句“却似桃源失路”，“失”字仄声。高词后段第四句“浓欢寄、桃叶桃根”，“浓”字平声，“寄”字仄声。晏词第五句“若是初心未改”，“未”字仄声。谱内可平可仄据此，馀参所采诸词。",
+    "SampleAuthor": "晏几道",
+    "SampleContent": "柳阴庭院杏梢墙依旧巫阳凤箫已远青楼在水沈烟复暖前香临镜舞鸾离照倚筝飞雁辞行坠鞭人意自凄凉泪眼回肠断云残雨当年事到如今几度难忘两袖晓风花陌一帘夜月兰堂",
+    "Definition": "◎○⊙●●○○韵⊙●○○韵◎○◎●○○●句◎⊙⊙读◎●○○韵⊙●◎○⊙●句◎○⊙●○○韵　　◎○○●●○○韵●●○○韵◎○⊙●○○●句◎○⊙读◎●○○韵◎●◎○⊙●句◎○●●○○韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　柳阴庭院杏梢墙　依旧巫阳　凤箫已远青楼在　水沈烟　复暖前香　临镜舞鸾离照　倚筝飞雁辞行　<br />\r\n<span class='comment'>　　中平中仄仄平平<span class='rhythm'>韵</span>中仄平平<span class='rhythm'>韵</span>中平中仄平平仄<span class='rhythm'>句</span>中中中<span class='rhythm'>读</span>中仄平平<span class='rhythm'>韵</span>中仄中平中仄<span class='rhythm'>句</span>中平中仄平平<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　坠鞭人意自凄凉　泪眼回肠　断云残雨当年事　到如今　几度难忘　两袖晓风花陌　一帘夜月兰堂　<br />\r\n<span class='comment'>　　中平平仄仄平平<span class='rhythm'>韵</span>仄仄平平<span class='rhythm'>韵</span>中平中仄平平仄<span class='rhythm'>句</span>中平中<span class='rhythm'>读</span>中仄平平<span class='rhythm'>韵</span>中仄中平中仄<span class='rhythm'>句</span>中平仄仄平平<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "柳阴庭院杏梢墙。依旧巫阳。凤箫已远青楼在，水沈烟。复暖前香。临镜舞鸾离照，倚筝飞雁辞行。坠鞭人意自凄凉。泪眼回肠。断云残雨当年事，到如今。几度难忘。两袖晓风花陌，一帘夜月兰堂。"
+  }
+}

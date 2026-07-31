@@ -1,0 +1,27 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 190,
+  "name": "西江月",
+  "type": "PingAndZe",
+  "aliases": [
+    "白苹香",
+    "步虚词",
+    "江月令",
+    "玉炉三涧雪"
+  ],
+  "description": "唐教坊曲名。《乐章集》注“中吕宫”。欧阳炯词有“两岸蘋香暗起”句，名《白蘋香》。程珌词名《步虚词》。王行词名《江月令》。",
+  "writingCount": 1357,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调五十字，前后段各四句，两平韵、一叶韵",
+    "Comment": "此调始于南唐欧阳炯，前后段两起句俱叶仄韵，自宋苏轼、辛弃疾外，填者绝少，故此词必以柳词为正体。沈伯时《乐府指迷》云：“《西江月》第二句平声韵，第四句就平声切去押仄韵，如平声押‘东’字，仄声须押‘董、冻’字韵，不可随意押入他韵。”其说正与柳词体合。若吴词之两段各韵，欧词之添字，赵词之不叶韵，皆变体也。\n前段第四句，晏几道词“晓镜心情更懒”，“更”字仄声。后段第三句，司马光词“笙歌散后酒微醒”，“笙”字平声。末句，欧阳炯词“犹占凤楼春色”，“凤”字仄声。谱内可平可仄据之，馀参下词。",
+    "SampleAuthor": "柳永",
+    "SampleContent": "凤额绣帘高卷兽镮朱户频摇两竿红日上花梢春睡恹恹难觉好梦枉随飞絮閒愁浓胜香醪不成雨暮与云朝又是韶光过了",
+    "Definition": "◎●◎○⊙●句◎○⊙●○○韵◎○⊙●●○○韵⊙●⊙○⊙●叶　　◎●◎○⊙●句⊙○⊙●○○韵◎○◎●●○○韵◎●⊙○◎●叶",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　凤额绣帘高卷　兽镮朱户频摇　两竿红日上花梢　春睡恹恹难觉　<br />\r\n<span class='comment'>　　中仄中平中仄<span class='rhythm'>句</span>中平中仄平平<span class='rhythm'>韵</span>中平中仄仄平平<span class='rhythm'>韵</span>中仄中平中仄<span class='rhythm'>叶</span></span></p>\r\n<br /><p class='mSize'>　　好梦枉随飞絮　閒愁浓胜香醪　不成雨暮与云朝　又是韶光过了　<br />\r\n<span class='comment'>　　中仄中平中仄<span class='rhythm'>句</span>中平中仄平平<span class='rhythm'>韵</span>中平中仄仄平平<span class='rhythm'>韵</span>中仄中平中仄<span class='rhythm'>叶</span></span></p>\r\n",
+    "SamplePunctuated": "凤额绣帘高卷，兽镮朱户频摇。两竿红日上花梢。春睡恹恹难觉。好梦枉随飞絮，閒愁浓胜香醪。不成雨暮与云朝。又是韶光过了。"
+  }
+}

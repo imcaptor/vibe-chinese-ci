@@ -1,0 +1,25 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 516,
+  "name": "水调歌头",
+  "type": "Ping",
+  "aliases": [
+    "元会曲",
+    "凯歌"
+  ],
+  "description": "《碧鸡漫志》属中吕调。毛滂词名《元会曲》，张矩词名《凯歌》。按《水调》乃唐人大曲，凡大曲有歌头，此必裁截其歌头，另倚新声也。",
+  "writingCount": 1894,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调九十五字，前段九句四平韵，后段十句四平韵",
+    "Comment": "此调以此词及周词、苏词为正体，若贺词之偷声，王词、刘词之添字，傅词之减字，皆变体也。\n此词前后段不间入仄韵，宋词俱如此填。其前段第三、四句，后段第四、五句，俱四字一句、七字一句，其七字句并作拗体。惟葛郯词“翠光千顷，为谁来去为谁留”、“跳珠翻沫，轰雷掣电几时收”，吕渭老词“醉魂何在，应骑箕尾到青天”、“黄粱未熟，经游都在梦魂间”，刘过词“日高花困，海棠风暖想都开”，“人生行乐，且须痛饮莫辞杯”，“谁”字、“雷”字、“骑”字、“游”字、“棠”字、“须”字俱平声，与此异。\n又前段起句，毛词别首“金马空故事”，辛弃疾词“四坐且勿语”，叶梦得词“修眉扫遥碧”。换头三句，毛词别首“双石健，含古色，照新堂”，“石”字、“古”字俱仄声。苏轼词“众鸟里，真彩凤，独不鸣”，“彩”字、“不”字俱仄声。辛词“回首处，云正出，鸟倦飞”，“首”字、“正”字、“倦”字俱仄声，俱与此词异。谱内可平可仄据此，其馀参下平韵词。",
+    "SampleAuthor": "毛滂",
+    "SampleContent": "九金增宋重八玉变秦馀千年清浸先净河洛出图书一段升平光景不但五星循轨万点共连珠垂衣本神圣补衮妙工夫朝元去锵环佩冷云衢芝房雅奏仪凤矫首听笙竽天近黄麾仗晓春早红鸾扇暖迟日上金铺万岁南山色不老对唐虞",
+    "Definition": "◎⊙⊙◎●句◎●●○○韵⊙○○●句⊙◎○●●○○韵◎●⊙○⊙●句◎●◎○⊙●句◎●●○○韵⊙⊙◎○●句◎●●○○韵　　⊙⊙◎句⊙⊙●句●⊙○韵⊙○◎●句⊙●◎●●○○韵⊙●⊙○◎●句⊙●⊙○◎●句⊙●●○○韵◎●⊙○●句◎●●○○韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　九金增宋重　八玉变秦馀　千年清浸　先净河洛出图书　一段升平光景　不但五星循轨　万点共连珠　<br />\r\n<span class='comment'>　　中中中中仄<span class='rhythm'>句</span>中仄仄平平<span class='rhythm'>韵</span>中平平仄<span class='rhythm'>句</span>中中平仄仄平平<span class='rhythm'>韵</span>中仄中平中仄<span class='rhythm'>句</span>中仄中平中仄<span class='rhythm'>句</span>中仄仄平平<span class='rhythm'>韵</span></span></p>\r\n<p class='mSize'>垂衣本神圣　补衮妙工夫　<br />\r\n<span class='comment'>中中中平仄<span class='rhythm'>句</span>中仄仄平平<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　朝元去　锵环佩　冷云衢　芝房雅奏　仪凤矫首听笙竽　天近黄麾仗晓　春早红鸾扇暖　迟日上金铺　<br />\r\n<span class='comment'>　　中中中<span class='rhythm'>句</span>中中仄<span class='rhythm'>句</span>仄中平<span class='rhythm'>韵</span>中平中仄<span class='rhythm'>句</span>中仄中仄仄平平<span class='rhythm'>韵</span>中仄中平中仄<span class='rhythm'>句</span>中仄中平中仄<span class='rhythm'>句</span>中仄仄平平<span class='rhythm'>韵</span></span></p>\r\n<p class='mSize'>万岁南山色　不老对唐虞　<br />\r\n<span class='comment'>中仄中平仄<span class='rhythm'>句</span>中仄仄平平<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "九金增宋重，八玉变秦馀。千年清浸，先净河洛出图书。一段升平光景，不但五星循轨，万点共连珠。垂衣本神圣，补衮妙工夫。朝元去，锵环佩，冷云衢。芝房雅奏，仪凤矫首听笙竽。天近黄麾仗晓，春早红鸾扇暖，迟日上金铺。万岁南山色，不老对唐虞。"
+  }
+}

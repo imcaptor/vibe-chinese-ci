@@ -1,0 +1,31 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 775,
+  "name": "沁园春",
+  "type": "Ping",
+  "aliases": [
+    "东仙",
+    "寿星明",
+    "洞庭春色"
+  ],
+  "description": "金词注“般涉调”。蒋氏《十三调》注“中吕调”。张辑词结句有“号我东仙”句，名《东仙》。李刘词名《寿星明》。秦观减字词名《洞庭春色》。",
+  "writingCount": 1751,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调一百十四字，前段十三句四平韵，后段十二句五平韵",
+    "Comment": "此调以此词及贺词为正体，若葛词、林词之添字，张词之衬字，李词之减字，皆变格也。\n此调前段第十一句、后段第十句例作“平平仄”，如李昴英之“又何须”，何梦桂词之“奇绝处”，赵以夫词之“太平也”，刘过词之“谁羡汝”及类列林词之“动星象”、李词之“愿此去”，皆与调不合，谱内不校注平仄。\n按辛弃疾词后段起句“更凭歌舞为媒”，“更”字仄声，“歌”字平声。黄机词第二句“为小驻、寿君金叵罗”，“寿”字仄声。张矩词第三、四句“算支撑厦屋，正资梁栋”，“厦”字仄声，“梁”字平声。辛词第五句“疏篱护竹”，“护”字仄声。陆游词第十一句“有灞桥烟柳”，“灞”字仄声。谱内可平可仄据此，馀参类列四词。\n刘过词前段第十句“浓抹淡妆临镜台”，“淡”字仄声。后段起句“白云天竺去来”，“去”字仄声。第七句“逋日不然”，“不”字仄声。俱与诸家不同，谱内亦不校注。",
+    "SampleAuthor": "苏轼",
+    "SampleContent": "孤馆灯青野店鸡号旅枕梦残渐月华收练晨霜耿耿云山摛锦朝露漙漙世路无穷劳生有限似此区区长鲜欢微吟罢凭征鞍无语往事千端当时共客长安似二陆初来俱少年有笔头千字胸中万卷致君尧舜此事何难用舍由时行藏在我袖手何妨閒处看身长健但优游卒岁且斗尊前",
+    "Definition": "⊙◎○○句◎◎⊙⊙句◎◎◎○韵●◎○⊙●句⊙○◎●句⊙○⊙●句⊙●○○韵◎●○○句⊙○◎●句◎●○○⊙●○韵⊙○●句◎⊙○⊙●句◎●○○韵　　⊙○◎●○○韵◎◎●读⊙○⊙●○韵●◎○⊙●句⊙○◎●句◎○⊙●句◎●○○韵◎●○○句⊙○◎●句◎●○○⊙●○韵⊙⊙●句●⊙○◎●句◎●○○韵",
+    "LeadingChars": [
+      12,
+      47,
+      70,
+      105
+    ],
+    "FormatHtml": "<p class='mSize'>　　孤馆灯青　野店鸡号　旅枕梦残　渐月华收练　晨霜耿耿　云山摛锦　朝露漙漙　世路无穷　<br />\r\n<span class='comment'>　　中中平平<span class='rhythm'>句</span>中中中中<span class='rhythm'>句</span>中中中平<span class='rhythm'>韵</span>仄中平中仄<span class='rhythm'>句</span>中平中仄<span class='rhythm'>句</span>中平中仄<span class='rhythm'>句</span>中仄平平<span class='rhythm'>韵</span>中仄平平<span class='rhythm'>句</span></span></p>\r\n<p class='mSize'>劳生有限　似此区区长鲜欢　微吟罢　凭征鞍无语　往事千端　<br />\r\n<span class='comment'>中平中仄<span class='rhythm'>句</span>中仄平平中仄平<span class='rhythm'>韵</span>中平仄<span class='rhythm'>句</span>中中平中仄<span class='rhythm'>句</span>中仄平平<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　当时共客长安　似二陆　初来俱少年　有笔头千字　胸中万卷　致君尧舜　此事何难　用舍由时　<br />\r\n<span class='comment'>　　中平中仄平平<span class='rhythm'>韵</span>中中仄<span class='rhythm'>读</span>中平中仄平<span class='rhythm'>韵</span>仄中平中仄<span class='rhythm'>句</span>中平中仄<span class='rhythm'>句</span>中平中仄<span class='rhythm'>句</span>中仄平平<span class='rhythm'>韵</span>中仄平平<span class='rhythm'>句</span></span></p>\r\n<p class='mSize'>行藏在我　袖手何妨閒处看　身长健　但优游卒岁　且斗尊前　<br />\r\n<span class='comment'>中平中仄<span class='rhythm'>句</span>中仄平平中仄平<span class='rhythm'>韵</span>中中仄<span class='rhythm'>句</span>仄中平中仄<span class='rhythm'>句</span>中仄平平<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "孤馆灯青，野店鸡号，旅枕梦残。渐月华收练，晨霜耿耿，云山摛锦，朝露漙漙。世路无穷，劳生有限，似此区区长鲜欢。微吟罢，凭征鞍无语，往事千端。当时共客长安。似二陆。初来俱少年。有笔头千字，胸中万卷，致君尧舜，此事何难。用舍由时，行藏在我，袖手何妨閒处看。身长健，但优游卒岁，且斗尊前。"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 329,
+  "name": "苏幕遮",
+  "type": "Ze",
+  "aliases": [
+    "鬓云松令",
+    "鬓云松",
+    "云雾敛",
+    "苏莫遮"
+  ],
+  "description": "唐教坊曲名。按《唐书·宋务光传》，比见都邑坊市，相率为浑脱队，骏马戎服，名《苏幕遮》。　又按张说集有《苏幕遮》七言绝句，宋词盖因旧曲名，另度新声也。周邦彦词有“鬓云松”句，更名《鬓云松令》。金词注“般涉调”。",
+  "writingCount": 405,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调六十二字，前后段各七句、四仄韵",
+    "Comment": "此调祇有此体，宋元人俱如此填。\n前段第三、四句，梅尧臣词“乱碧萋萋，雨后江天晓”，“乱”字、“雨”字俱仄声。第五句，苏轼词“一局选仙逃暑困”，“一”字、“选”字俱仄声。第六、七句，苏词“笑指尊前，谁向清宵近”，“笑”字仄声，“谁”字平声。后段第三句，张先词“回首旗亭”，“回”字平声。第四句，苏词“谁敢争先进”，“谁”字平声。第五句，杜安世词“独上高楼临春霭”，“独”字仄声。杨泽民词“溪上故人无恙否”，“故”字仄声。第六、七句，张先词“天若有情，天也终须老”，两“天”字俱平声，“有”字仄声。谱内可平可仄据此，若《花草粹编》无名氏词前段起二句“与君别，情易许”，别字仄声，此亦偶然，不必从。",
+    "SampleAuthor": "范仲淹",
+    "SampleContent": "碧云天黄叶地秋色连波波上含烟翠山映斜阳天接水芳草无情更在斜阳外黯乡魂追旅思夜夜除非好梦留人睡明月楼高休独倚酒入愁肠化作相思泪",
+    "Definition": "●○○句○●●韵⊙●○○句⊙●○○●韵⊙●⊙○○●●韵⊙●○○句◎●○○●韵　　●○○句○●●韵◎●○○句◎●○○●韵⊙●⊙○○●●韵◎●⊙○句◎●○○●韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　碧云天　黄叶地　秋色连波　波上含烟翠　山映斜阳天接水　芳草无情　更在斜阳外　<br />\r\n<span class='comment'>　　仄平平<span class='rhythm'>句</span>平仄仄<span class='rhythm'>韵</span>中仄平平<span class='rhythm'>句</span>中仄平平仄<span class='rhythm'>韵</span>中仄中平平仄仄<span class='rhythm'>韵</span>中仄平平<span class='rhythm'>句</span>中仄平平仄<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　黯乡魂　追旅思　夜夜除非　好梦留人睡　明月楼高休独倚　酒入愁肠　化作相思泪　<br />\r\n<span class='comment'>　　仄平平<span class='rhythm'>句</span>平仄仄<span class='rhythm'>韵</span>中仄平平<span class='rhythm'>句</span>中仄平平仄<span class='rhythm'>韵</span>中仄中平平仄仄<span class='rhythm'>韵</span>中仄中平<span class='rhythm'>句</span>中仄平平仄<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "碧云天，黄叶地。秋色连波，波上含烟翠。山映斜阳天接水。芳草无情，更在斜阳外。黯乡魂，追旅思。夜夜除非，好梦留人睡。明月楼高休独倚。酒入愁肠，化作相思泪。"
+  }
+}

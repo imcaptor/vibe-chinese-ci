@@ -1,0 +1,25 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 65,
+  "name": "江城子",
+  "type": "Ping",
+  "aliases": [
+    "江神子",
+    "村意远"
+  ],
+  "description": "唐词单调，以韦庄词为主，馀俱照韦词添字。至宋人始作双调，晁补之改名《江神子》，韩淲词有“腊后春前村意远”句，更名《村意远》。",
+  "writingCount": 644,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "单调三十五字，七句五平韵",
+    "Comment": "此词起句，韦词别首“恩重娇多情易伤”，“恩”字、“多”字、“情”字俱平声，“重”字、“易”字俱仄声。第三句，和凝词“连理枝”，“连”字平声，“理”字仄声。第四句，张泌词“飞絮落花”，“飞”字、“花”字平声，“絮”字、“落”字仄声。第五句，和词“含恨含娇独自语”，两“含”字平声，“独”字仄声。第六句，和词“待梅绽”，“待”字仄声，“梅”字平声。",
+    "SampleAuthor": "韦庄",
+    "SampleContent": "髻鬟狼藉黛眉长出兰房别檀郎角声呜咽星斗渐微茫露冷月残人未起留不住泪千行",
+    "Definition": "◎⊙○◎◎⊙○韵●○○韵◎⊙○韵◎⊙⊙◎读⊙●●○○韵◎●◎○⊙●●句⊙◎●句●○○韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　髻鬟狼藉黛眉长　出兰房　别檀郎　角声呜咽　星斗渐微茫　露冷月残人未起　留不住　泪千行　<br />\r\n<span class='comment'>　　中中平中中中平<span class='rhythm'>韵</span>仄平平<span class='rhythm'>韵</span>中中平<span class='rhythm'>韵</span>中中中中<span class='rhythm'>读</span>中仄仄平平<span class='rhythm'>韵</span>中仄中平中仄仄<span class='rhythm'>句</span>中中仄<span class='rhythm'>句</span>仄平平<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "髻鬟狼藉黛眉长。出兰房。别檀郎。角声呜咽。星斗渐微茫。露冷月残人未起，留不住，泪千行。"
+  }
+}

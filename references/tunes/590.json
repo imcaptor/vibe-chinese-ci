@@ -1,0 +1,29 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 590,
+  "name": "声声慢",
+  "type": "Ping",
+  "aliases": [
+    "胜胜慢",
+    "神光灿",
+    "人在楼上"
+  ],
+  "description": "蒋氏《九宫谱》注“仙吕调”。晁补之词名《胜胜慢》。吴文英词有“人在小楼”句，名《人在楼上》。此调有平韵、仄韵两体，平韵者以晁补之、吴文英、王沂孙词为正体，仄韵者以高观国词为正体。",
+  "writingCount": 342,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调九十九字，前段九句四平韵，后段八句四平韵",
+    "Comment": "此调采平韵词八首，以晁、吴、王三词为正体，贺词以下，皆变体也。\n此词前后结皆八字一句、四字一句，周密“琼壶敲月”词与此同。谱内可平可仄，悉参所采平韵七词句法同者。",
+    "SampleAuthor": "晁补之",
+    "SampleContent": "朱门深掩摆荡春风无情镇欲轻飞断肠如雪撩乱去点人衣朝来半和细雨向谁家东馆西池算未肯似桃含红蕊留待郎归还记章台往事别后纵青青似旧时垂灞岸行人多少竞折柔枝而今恨啼露叶镇香街抛掷因谁又争可妒郎誇春草步步相随",
+    "Definition": "⊙⊙⊙◎句◎◎⊙⊙句⊙⊙◎●○○韵●⊙○◎○●句●●○○韵⊙⊙◎○◎●句●⊙○读⊙●○○韵●●●读●○○○●句⊙●○○韵　　⊙◎⊙○◎●句◎◎◎读○⊙◎●○○韵●●⊙○○●句●●○○韵⊙⊙◎○●●句●○○读⊙●○○韵●○●读●○○○●句●●○○韵",
+    "LeadingChars": [
+      40,
+      90
+    ],
+    "FormatHtml": "<p class='mSize'>　　朱门深掩　摆荡春风　无情镇欲轻飞　断肠如雪撩乱　去点人衣　朝来半和细雨　向谁家　东馆西池　<br />\r\n<span class='comment'>　　中中中中<span class='rhythm'>句</span>中中中中<span class='rhythm'>句</span>中中中仄平平<span class='rhythm'>韵</span>仄中平中平仄<span class='rhythm'>句</span>仄仄平平<span class='rhythm'>韵</span>中中中平中仄<span class='rhythm'>句</span>仄中平<span class='rhythm'>读</span>中仄平平<span class='rhythm'>韵</span></span></p>\r\n<p class='mSize'>算未肯　似桃含红蕊　留待郎归　<br />\r\n<span class='comment'>仄仄仄<span class='rhythm'>读</span>仄平平平仄<span class='rhythm'>句</span>中仄平平<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　还记章台往事　别后纵　青青似旧时垂　灞岸行人多少　竞折柔枝　而今恨啼露叶　镇香街　<br />\r\n<span class='comment'>　　中中中平中仄<span class='rhythm'>句</span>中中中<span class='rhythm'>读</span>平中中仄平平<span class='rhythm'>韵</span>仄仄中平平仄<span class='rhythm'>句</span>仄仄平平<span class='rhythm'>韵</span>中中中平仄仄<span class='rhythm'>句</span>仄平平<span class='rhythm'>读</span></span></p>\r\n<p class='mSize'>抛掷因谁　又争可　妒郎誇春草　步步相随　<br />\r\n<span class='comment'>中仄平平<span class='rhythm'>韵</span>仄平仄<span class='rhythm'>读</span>仄平平平仄<span class='rhythm'>句</span>仄仄平平<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "朱门深掩，摆荡春风，无情镇欲轻飞。断肠如雪撩乱，去点人衣。朝来半和细雨，向谁家。东馆西池。算未肯。似桃含红蕊，留待郎归。还记章台往事，别后纵。青青似旧时垂。灞岸行人多少，竞折柔枝。而今恨啼露叶，镇香街。抛掷因谁。又争可。妒郎誇春草，步步相随。"
+  }
+}

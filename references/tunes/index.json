@@ -1,0 +1,392 @@
+{
+  "source": "cnkgraph CiTune",
+  "fetchedAt": "2026-07-31",
+  "count": 30,
+  "tunes": [
+    {
+      "name": "菩萨蛮",
+      "id": 105,
+      "aliases": [
+        "重叠金",
+        "子夜歌",
+        "菩萨鬘",
+        "花间意",
+        "梅花句",
+        "花溪碧",
+        "晚云烘日"
+      ],
+      "file": "105.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "忆秦娥",
+      "id": 127,
+      "aliases": [
+        "秦楼月",
+        "双荷叶",
+        "蓬莱阁",
+        "碧云深",
+        "花深深"
+      ],
+      "file": "127.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "忆江南",
+      "id": 23,
+      "aliases": [
+        "谢秋娘",
+        "江南好",
+        "春去也",
+        "望江南",
+        "双调望江南",
+        "梦江南",
+        "梦江口",
+        "望江梅",
+        "安阳好",
+        "梦仙游",
+        "步虚声",
+        "步虚词",
+        "壶山好",
+        "望蓬莱",
+        "归塞北"
+      ],
+      "file": "23.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "虞美人",
+      "id": 271,
+      "aliases": [
+        "虞美人令",
+        "玉壶冰",
+        "忆柳曲",
+        "一江春水"
+      ],
+      "file": "271.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "浣溪沙",
+      "id": 96,
+      "aliases": [
+        "小庭花",
+        "减字浣溪沙",
+        "浣溪纱",
+        "满院春",
+        "东风寒",
+        "醉木犀",
+        "霜菊黄",
+        "广寒枝",
+        "试香罗",
+        "清和风",
+        "怨啼鹃"
+      ],
+      "file": "96.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "浪淘沙令",
+      "id": 247,
+      "aliases": [
+        "曲入冥",
+        "浪淘沙",
+        "卖花声",
+        "过龙门",
+        "炼丹砂"
+      ],
+      "file": "247.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "清平乐",
+      "id": 126,
+      "aliases": [
+        "清平乐令",
+        "忆萝月"
+      ],
+      "file": "126.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "如梦令",
+      "id": 57,
+      "aliases": [
+        "忆仙姿",
+        "宴桃源",
+        "不见",
+        "比梅",
+        "古记",
+        "无梦令",
+        "如意令"
+      ],
+      "file": "57.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "蝶恋花",
+      "id": 304,
+      "aliases": [
+        "鹊踏枝",
+        "黄金缕",
+        "卷珠帘",
+        "明月生南浦",
+        "细雨吹池沼",
+        "凤栖梧",
+        "一箩金",
+        "鱼水同欢",
+        "转调蝶恋花"
+      ],
+      "file": "304.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "渔家傲",
+      "id": 328,
+      "aliases": [
+        "忍辱仙人",
+        "采莲舞"
+      ],
+      "file": "328.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "西江月",
+      "id": 190,
+      "aliases": [
+        "白苹香",
+        "步虚词",
+        "江月令",
+        "玉炉三涧雪"
+      ],
+      "file": "190.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "风入松",
+      "id": 389,
+      "aliases": [
+        "风入松慢",
+        "远山横"
+      ],
+      "file": "389.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "鹧鸪天",
+      "id": 268,
+      "aliases": [
+        "思越人",
+        "思佳客",
+        "剪朝霞",
+        "骊歌一叠",
+        "醉梅花"
+      ],
+      "file": "268.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "满江红",
+      "id": 494,
+      "aliases": [
+        "平调满江红",
+        "平韵满江红"
+      ],
+      "file": "494.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "念奴娇",
+      "id": 614,
+      "aliases": [
+        "大江东去",
+        "酹江月",
+        "赤壁词",
+        "酹月",
+        "壶中天",
+        "壶中天慢",
+        "大江西上曲",
+        "太平欢",
+        "寿南枝",
+        "古梅曲",
+        "湘月",
+        "淮甸春",
+        "白雪词",
+        "百字令",
+        "百字歌",
+        "百字谣",
+        "无俗念",
+        "千秋岁",
+        "庆长春",
+        "杏花天"
+      ],
+      "file": "614.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "水调歌头",
+      "id": 516,
+      "aliases": [
+        "元会曲",
+        "凯歌"
+      ],
+      "file": "516.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "沁园春",
+      "id": 775,
+      "aliases": [
+        "东仙",
+        "寿星明",
+        "洞庭春色"
+      ],
+      "file": "775.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "凤凰台上忆吹箫",
+      "id": 546,
+      "aliases": [
+        "忆吹箫"
+      ],
+      "file": "546.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "卜算子",
+      "id": 110,
+      "aliases": [
+        "缺月挂疏桐",
+        "黄鹤洞中仙",
+        "百尺楼",
+        "楚天遥",
+        "眉峰碧"
+      ],
+      "file": "110.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "南乡子",
+      "id": 28,
+      "aliases": [
+        "双调南乡子",
+        "好离乡",
+        "莫思乡"
+      ],
+      "file": "28.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "采桑子",
+      "id": 106,
+      "aliases": [
+        "丑奴儿令",
+        "罗敷媚歌",
+        "丑奴儿",
+        "罗敷媚"
+      ],
+      "file": "106.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "临江仙",
+      "id": 246,
+      "aliases": [
+        "谢新恩",
+        "雁后归",
+        "画屏春",
+        "庭院深深"
+      ],
+      "file": "246.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "定风波",
+      "id": 325,
+      "aliases": [
+        "定风流",
+        "定风波令"
+      ],
+      "file": "325.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "苏幕遮",
+      "id": 329,
+      "aliases": [
+        "鬓云松令",
+        "鬓云松",
+        "云雾敛",
+        "苏莫遮"
+      ],
+      "file": "329.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "青玉案",
+      "id": 355,
+      "aliases": [
+        "西湖路"
+      ],
+      "file": "355.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "江城子",
+      "id": 65,
+      "aliases": [
+        "江神子",
+        "村意远"
+      ],
+      "file": "65.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "声声慢",
+      "id": 590,
+      "aliases": [
+        "胜胜慢",
+        "神光灿",
+        "人在楼上"
+      ],
+      "file": "590.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "雨霖铃",
+      "id": 678,
+      "aliases": [
+        "雨霖铃慢",
+        "雨淋铃"
+      ],
+      "file": "678.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "永遇乐",
+      "id": 697,
+      "aliases": [
+        "消息"
+      ],
+      "file": "697.json",
+      "approvedFormatIndex": 0
+    },
+    {
+      "name": "贺新郎",
+      "id": 782,
+      "aliases": [
+        "金缕歌",
+        "金缕衣",
+        "金缕曲",
+        "金缕词",
+        "乳燕飞",
+        "贺新凉",
+        "风敲竹",
+        "貂裘换酒"
+      ],
+      "file": "782.json",
+      "approvedFormatIndex": 0
+    }
+  ]
+}

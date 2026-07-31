@@ -1,0 +1,28 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 110,
+  "name": "卜算子",
+  "type": "Ze",
+  "aliases": [
+    "缺月挂疏桐",
+    "黄鹤洞中仙",
+    "百尺楼",
+    "楚天遥",
+    "眉峰碧"
+  ],
+  "description": "元高拭词注“仙吕调”。苏轼词有“缺月挂疏桐”句，名《缺月挂疏桐》。秦湛词有“极目烟中百尺楼”句，名《百尺楼》。僧皎词有“目断楚天遥”句，名《楚天遥》。无名氏词有“蹙破眉峰碧”句，名《眉峰碧》。",
+  "writingCount": 1032,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调四十四字，前后段各四句、两仄韵",
+    "Comment": "此调以此词为正体，若石词之多押两韵，徐、黄、张、杜四词之添字，皆变体也。\n苏词别首前段第二句“长忆吴山好”，“长”字平声。谱内据之，其馀可平可仄，悉参下词。",
+    "SampleAuthor": "苏轼",
+    "SampleContent": "缺月挂疏桐漏断人初静时见幽人独往来缥缈孤鸿影惊起却回头有恨无人省拣尽寒枝不肯栖寂寞沙洲冷",
+    "Definition": "◎◎◎⊙○句◎●○○●韵⊙●○○◎◎⊙句◎●○○●韵　　⊙◎◎⊙○句◎●○○●韵◎●○○◎◎⊙句●●○○●韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　缺月挂疏桐　漏断人初静　时见幽人独往来　缥缈孤鸿影　<br />\r\n<span class='comment'>　　中中中中平<span class='rhythm'>句</span>中仄平平仄<span class='rhythm'>韵</span>中仄平平中中中<span class='rhythm'>句</span>中仄平平仄<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　惊起却回头　有恨无人省　拣尽寒枝不肯栖　寂寞沙洲冷　<br />\r\n<span class='comment'>　　中中中中平<span class='rhythm'>句</span>中仄平平仄<span class='rhythm'>韵</span>中仄平平中中中<span class='rhythm'>句</span>仄仄平平仄<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "缺月挂疏桐，漏断人初静。时见幽人独往来，缥缈孤鸿影。惊起却回头，有恨无人省。拣尽寒枝不肯栖，寂寞沙洲冷。"
+  }
+}

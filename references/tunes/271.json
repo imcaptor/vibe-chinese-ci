@@ -1,0 +1,27 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 271,
+  "name": "虞美人",
+  "type": "PingZeSwitch",
+  "aliases": [
+    "虞美人令",
+    "玉壶冰",
+    "忆柳曲",
+    "一江春水"
+  ],
+  "description": "唐教坊曲名。《碧鸡漫志》云：“《虞美人》旧曲三，其一属中吕调，其一属中吕宫，近世又转入黄钟宫。”元高拭词注“南吕调”。《乐府雅词》名《虞美人令》。周紫芝词有“只恐怕寒，难近玉壶冰”句，名《玉壶冰》。张炎词赋柳儿，因名《忆柳曲》。王行词取李煜“恰似一江春水向东流”句，名《一江春水》。",
+  "writingCount": 1578,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调五十六字，前后段各四句，两仄韵、两平韵",
+    "Comment": "此调以李词、毛词为正体，而宋元词依李体填者尤多。若顾词二体，则惟唐人有之，皆变格也。\n此词前后段四换韵，其两结系九字句，或两字微读，或四字微读，或六字微读，以蝉联不断为合格。\n按苏轼词前段结句“便使尊前醉倒、且徘徊”，后段结句“对月逢花不饮、待何时”，“醉”字、“不”字俱仄声。又冯延巳词后结“尘掩玉筝弦柱、画堂空”，“尘”字平声，“玉”字仄声。谱内可平可仄据此，馀参张、冯二词。",
+    "SampleAuthor": "（南唐）李煜",
+    "SampleContent": "风回小院庭芜绿柳眼春相续凭阑半日独无言依旧竹声新月似当年笙歌未散尊罍在池面冰初解烛明香暗画阑深满鬓清霜残雪思难禁",
+    "Definition": "⊙○◎●○○●仄韵◎●○○●韵⊙○◎●●○○平韵⊙●◎○⊙●读●○○韵　　⊙○●●○○●换仄韵⊙●○○●韵●○○●●○○换平韵◎●⊙○⊙●读●○○韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　风回小院庭芜绿　　柳眼春相续　凭阑半日独无言　　依旧竹声新月　似当年　<br />\r\n<span class='comment'>　　中平中仄平平仄<span class='rhythm'>仄</span><span class='rhythm'>韵</span>中仄平平仄<span class='rhythm'>韵</span>中平中仄仄平平<span class='rhythm'>平</span><span class='rhythm'>韵</span>中仄中平中仄<span class='rhythm'>读</span>仄平平<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　笙歌未散尊罍在　　　池面冰初解　烛明香暗画阑深　　　满鬓清霜残雪　思难禁　<br />\r\n<span class='comment'>　　中平仄仄平平仄<span class='rhythm'>换</span><span class='rhythm'>仄</span><span class='rhythm'>韵</span>中仄平平仄<span class='rhythm'>韵</span>仄平平仄仄平平<span class='rhythm'>换</span><span class='rhythm'>平</span><span class='rhythm'>韵</span>中仄中平中仄<span class='rhythm'>读</span>仄平平<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "风回小院庭芜绿。柳眼春相续。凭阑半日独无言。依旧竹声新月。似当年。笙歌未散尊罍在。池面冰初解。烛明香暗画阑深。满鬓清霜残雪。思难禁。"
+  }
+}

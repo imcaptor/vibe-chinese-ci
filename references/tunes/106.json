@@ -1,0 +1,27 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 106,
+  "name": "采桑子",
+  "type": "Ping",
+  "aliases": [
+    "丑奴儿令",
+    "罗敷媚歌",
+    "丑奴儿",
+    "罗敷媚"
+  ],
+  "description": "唐教坊曲有《杨下采桑》，调名本此。《尊前集》注“羽调”。《乐府雅词》注“中吕宫”。南唐李煜词名《丑奴儿令》，冯延巳词名《罗敷媚歌》，贺铸词名《丑奴儿》，陈师道词名《罗敷媚》。",
+  "writingCount": 1107,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调四十四字，前后段各四句、三平韵",
+    "Comment": "此调以此词为正体，若李词、朱词之添字，皆变体也。\n按冯延巳词前段第一句“马嘶人语春风岸”，“马”字仄声，“人”字平声。第二句“芳草绵绵”，“芳”字平声。第三句“梦过金扉”，“梦”字仄声。结句“花谢窗前夜合枝”，“花”字平声。又“落尽灯花鸡未啼”，“鸡”字平声。后段第一句“起来捡点经游地”，“起”字、“捡”字俱仄声。第二句“处处新愁”，上“处”字仄声。第三句“不语含情”，“不”字仄声。结句“水调何人吹笛声”，“水”字仄声，“吹”字平声。谱内可平可仄据此。若两结句第三四字，例用平平，则不可移易也。",
+    "SampleAuthor": "和凝",
+    "SampleContent": "蝤蛴领上诃梨子绣带双垂椒户閒时竞学摴蒲赌荔枝丛头鞋子红编细裙窣金丝无事颦眉春思翻教阿母疑",
+    "Definition": "⊙○◎●○○●句◎●○○韵⊙●○○韵◎●○○◎●○韵　　⊙○⊙●○○●句⊙●○○韵⊙●○○韵⊙●○○◎●○韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　蝤蛴领上诃梨子　绣带双垂　椒户閒时　竞学摴蒲赌荔枝　<br />\r\n<span class='comment'>　　中平中仄平平仄<span class='rhythm'>句</span>中仄平平<span class='rhythm'>韵</span>中仄平平<span class='rhythm'>韵</span>中仄平平中仄平<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　丛头鞋子红编细　裙窣金丝　无事颦眉　春思翻教阿母疑　<br />\r\n<span class='comment'>　　中平中仄平平仄<span class='rhythm'>句</span>中仄平平<span class='rhythm'>韵</span>中仄平平<span class='rhythm'>韵</span>中仄平平中仄平<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "蝤蛴领上诃梨子，绣带双垂。椒户閒时。竞学摴蒲赌荔枝。丛头鞋子红编细，裙窣金丝。无事颦眉。春思翻教阿母疑。"
+  }
+}

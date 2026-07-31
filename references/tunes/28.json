@@ -1,0 +1,26 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 28,
+  "name": "南乡子",
+  "type": "PingZeSwitch",
+  "aliases": [
+    "双调南乡子",
+    "好离乡",
+    "莫思乡"
+  ],
+  "description": "唐教坊曲名。此词有单调、双调。单调者始自欧阳炯词，冯延巳、李珣俱本此添字。双调者始自冯延巳词。《太和正音谱》注“越调”。欧阳修本此减字，王之道、黄机、赵长卿俱本此添字也。",
+  "writingCount": 1146,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "单调二十七字，五句两平韵、三仄韵",
+    "Comment": "此词单遍，平仄两韵，与宋人两段全押平韵者异。其可平可仄，即参谱内诸词。",
+    "SampleAuthor": "欧阳炯",
+    "SampleContent": "画舸停桡槿花篱外竹横桥水上游人沙上女回顾笑指芭蕉林里住",
+    "Definition": "●●○○平韵◎⊙⊙◎●⊙○韵◎●⊙○○◎●仄韵○●韵◎●⊙○⊙●●韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　画舸停桡　　槿花篱外竹横桥　水上游人沙上女　　回顾　笑指芭蕉林里住　<br />\r\n<span class='comment'>　　仄仄平平<span class='rhythm'>平</span><span class='rhythm'>韵</span>中中中中仄中平<span class='rhythm'>韵</span>中仄中平平中仄<span class='rhythm'>仄</span><span class='rhythm'>韵</span>平仄<span class='rhythm'>韵</span>中仄中平中仄仄<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "画舸停桡。槿花篱外竹横桥。水上游人沙上女。回顾。笑指芭蕉林里住。"
+  }
+}
