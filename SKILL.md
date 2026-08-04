@@ -35,13 +35,15 @@ node scripts/get-tune.mjs "词牌名" --json
 
 ### 3. 三稿（仅新填）
 
-读取 `references/aesthetics.md` 和 `references/style-map.md`。内部安排章法，不把上下片、过片等专业负担推给用户。
+读取 `references/aesthetics.md`、`references/style-map.md` 和 `references/词病.md`。内部安排章法，不把上下片、过片等专业负担推给用户。
 
 按题材选择三种合适风格；三稿使用同一词牌、素材和主旨，至少在语势、意象、措辞、推进四轴中的两轴不同，且至少一稿自然克制。不得仿名家。
 
 **完成：** 三稿主旨一致、风格可辨、各句功能明确。
 
 ### 4. 过检
+
+**硬性规则：凡由本 skill 新填、续写或改动后展示的每一首词，均须运行 `scripts/analyze-ci.mjs`。** 不得以人工判断代替接口校验；每次改字、改句或改标点后，必须再次运行。接口失败时只能标为「本地校验／待接口复核」，不得称为“通过”。
 
 每个候选稿单独写入临时文本文件，然后依次运行：
 
@@ -50,7 +52,10 @@ node scripts/analyze-ci.mjs --tune "词牌名" --file /tmp/ci.txt --json
 node scripts/check-ci-similarity.mjs --file /tmp/ci.txt --json
 ```
 
-脚本负责串行、限频、重试和本地降级。不得并发请求。候选有硬伤时先改再复校，不展示未解释硬伤。
+脚本负责串行、限频、重试和本地降级。不得并发请求。格律通过后读取 `references/词病.md` 做词病自检；候选有硬伤时先改再复校，不展示未解释硬伤。
+
+- 候选阶段优先处理凑韵、义理断裂、无意重字／重意、虚假对仗、时空或事实错误与题意偏离；轻微词病不直接淘汰。
+- 定稿阶段将词病自检并入修改建议，优先最小改动；改动会伤词意而原句成立者标“可商榷”。
 
 - 格律结论只允许：`通过`、`需人工确认`、`本地校验／待接口复核`、`不通过`。
 - 查重先排查成语、典故原文和词牌惯用语；其余整句照搬为硬伤，高相似为警告并要求重写。
@@ -68,6 +73,7 @@ node scripts/check-ci-similarity.mjs --file /tmp/ci.txt --json
 ## 按需参考
 
 - 创作与精修：`references/aesthetics.md`
+- 词病自检与处置：`references/词病.md`
 - 选择三稿风格：`references/style-map.md`
 - 韵部、宽押、多音与古今音：`references/rhyme.md`
 - 完整报告：`references/output.md`
