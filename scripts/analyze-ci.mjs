@@ -14,6 +14,14 @@ if (!profile) {
   process.exit(2);
 }
 
+function apiFormatToIndex(value) {
+  if (typeof value === 'number' && Number.isInteger(value)) return value;
+  const numeric = Number(value);
+  if (Number.isInteger(numeric)) return numeric;
+  const names = ['一', '二', '三', '四', '五', '六', '七', '八', '九', '十'];
+  return names.indexOf(String(value));
+}
+
 function localCheck() {
   const units = parseDefinition(profile.format.Definition);
   const clauses = splitClauses(content);
@@ -64,7 +72,9 @@ try {
   if (q) {
     if (q.TuneName !== profile.name) hardErrors.push(`接口识别词牌为${q.TuneName}，目标为${profile.name}`);
     if (Number(q.TuneId) !== Number(profile.id)) hardErrors.push(`接口 TuneId=${q.TuneId}，目标 TuneId=${profile.id}`);
-    if (String(q.FormatIndex) !== '一') hardErrors.push(`接口采用第${q.FormatIndex}体，目标为正体第一体`);
+    if (apiFormatToIndex(q.FormatIndex) !== Number(profile.approvedFormatIndex)) {
+      hardErrors.push(`接口采用第${q.FormatIndex}体，目标为第${Number(profile.approvedFormatIndex) + 1}体`);
+    }
     if (Array.isArray(q.InvalidRhymes) && q.InvalidRhymes.length) hardErrors.push(...q.InvalidRhymes.map(x => `出韵：${typeof x === 'string' ? x : JSON.stringify(x)}`));
     for (const [i, clause] of (q.Clauses || []).entries()) {
       if (clause.ValidationError) hardErrors.push(`第${i + 1}句：${clause.ValidationError}`);

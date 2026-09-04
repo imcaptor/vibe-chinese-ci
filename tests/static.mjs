@@ -7,9 +7,9 @@ assert.equal(index.count, 30);
 assert.equal(index.tunes.length, 30);
 for (const entry of index.tunes) {
   const profile = JSON.parse(await fs.readFile(new URL(`references/tunes/${entry.file}`, root), 'utf8'));
-  assert.equal(profile.approvedFormatIndex, 0, entry.name);
+  assert.ok(Number.isInteger(profile.approvedFormatIndex) && profile.approvedFormatIndex >= 0, entry.name);
   assert.ok(profile.format.Definition, entry.name);
-  assert.ok(profile.format.SamplePunctuated, entry.name);
+  assert.ok(profile.format.SampleContent, entry.name);
 }
 const rhyme = JSON.parse(await fs.readFile(new URL('references/rhyme/clzy.json', root), 'utf8'));
 assert.equal(rhyme.Book, '词林正韵');
