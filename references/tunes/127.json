@@ -1,0 +1,28 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 127,
+  "name": "忆秦娥",
+  "type": "Ze",
+  "aliases": [
+    "秦楼月",
+    "双荷叶",
+    "蓬莱阁",
+    "碧云深",
+    "花深深"
+  ],
+  "description": "元高拭词注“商调”。按此词昉自李白，自唐迄元，体各不一。要其源皆从李词出也。因词有“秦娥梦断秦楼月”句，故名《忆秦娥》，更名《秦楼月》。苏轼词有“清光偏照双荷叶”句，名《双荷叶》。无名氏词有“水天摇荡蓬莱阁”句，名《蓬莱阁》。至贺铸始易仄韵为平韵。张辑词有“碧云暮合”句，名《碧云深》。宋媛孙道绚词有“花深深”句，名《花深深》。",
+  "writingCount": 620,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调四十六字，前后段各五句，三仄韵、一叠韵",
+    "Comment": "此调押仄韵者，以此词为正体，若晁词之不作叠句，石词之少押一韵，秦词之多口号四句，倪词之减去叠句，虽为变格，犹与李词大同小异。至冯延巳创为减字之体，张词由此添字，毛词由此偷声，在变格中更与诸家不同。\n前段起句，周邦彦词“香馥馥”，上“馥”字仄声。第二句，赵师侠词“不堪凉月穿珠箔”，“不”字仄声，“凉”字平声。第四句，李之仪词“迎得云归”，“得”字仄声，“归”字平声。第五句，李词“还送云别”，“送”字仄声。换头句，苏轼词“背风迎南泪珠滑”，“泪”字仄声。第五句，周紫芝词“西楼残月”，“西”字平声。谱内可平可仄据此，馀参姚、石、秦、倪四词。",
+    "SampleAuthor": "李白",
+    "SampleContent": "箫声咽秦娥梦断秦楼月秦楼月年年柳色灞陵伤别乐游原上清秋节咸阳古道音尘绝音尘绝西风残照汉家陵阙",
+    "Definition": "⊙⊙●韵⊙○◎●○○●韵○○●叠⊙⊙◎◎句◎⊙○●韵　　◎○⊙●⊙○●韵⊙○◎●○○●韵○○●叠⊙○⊙●句◎○○●韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　箫声咽　秦娥梦断秦楼月　秦楼月　年年柳色　灞陵伤别　<br />\r\n<span class='comment'>　　中中仄<span class='rhythm'>韵</span>中平中仄平平仄<span class='rhythm'>韵</span>平平仄<span class='rhythm'>叠</span>中中中中<span class='rhythm'>句</span>中中平仄<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　乐游原上清秋节　咸阳古道音尘绝　音尘绝　西风残照　汉家陵阙　<br />\r\n<span class='comment'>　　中平中仄中平仄<span class='rhythm'>韵</span>中平中仄平平仄<span class='rhythm'>韵</span>平平仄<span class='rhythm'>叠</span>中平中仄<span class='rhythm'>句</span>中平平仄<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "箫声咽。秦娥梦断秦楼月。秦楼月。年年柳色，灞陵伤别。乐游原上清秋节。咸阳古道音尘绝。音尘绝。西风残照，汉家陵阙。"
+  }
+}

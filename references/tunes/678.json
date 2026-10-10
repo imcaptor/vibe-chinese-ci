@@ -1,0 +1,27 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 678,
+  "name": "雨霖铃",
+  "type": "Ze",
+  "aliases": [
+    "雨霖铃慢",
+    "雨淋铃"
+  ],
+  "description": "一名《雨霖铃慢》，唐教坊曲名。《明皇杂录》：“帝幸蜀，初入斜谷，霖雨弥日，栈道中闻铃声，采其声为《雨霖铃》曲。”宋词盖借旧曲名，另倚新声也。调见柳永《乐章集》，属双调。",
+  "writingCount": 65,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调一百三字，前段十句五仄韵，后段九句五仄韵",
+    "Comment": "此调以此词为正体，王安石“孜孜矻矻”词正与此同。若王词、黄词之句读小异，乃变格也。\n按王安石词前段第四句“浮名浮利何济”，下“浮”字平声。谱内据此，其馀可平可仄悉参王、黄二词。",
+    "SampleAuthor": "柳永",
+    "SampleContent": "寒蝉凄切对长亭晚骤雨初歇都门帐饮无绪方留恋处兰舟催发执手相看泪眼竟无语凝咽念去去千里烟波暮霭沈沈楚天阔多情自古伤离别更那堪冷落清秋节今宵酒醒何处杨柳岸晓风残月此去经年应是良辰好景虚设便纵有千种风情更与何人说",
+    "Definition": "○○⊙●韵●○○●句●●○●韵○○◎◎⊙●句○○●●句○○○●韵●●○○◎●句●○◎○●韵●●◎读○●○○句●●○○●○●韵　　⊙○●●○○●韵●○○读●●○○●韵⊙○●◎⊙●句⊙●●读●○○●韵●●○○句○●○○句●◎○●韵●●●读⊙●○○句●●○○●韵",
+    "LeadingChars": [
+      32
+    ],
+    "FormatHtml": "<p class='mSize'>　　寒蝉凄切　对长亭晚　骤雨初歇　都门帐饮无绪　方留恋处　兰舟催发　执手相看泪眼　竟无语凝咽　<br />\r\n<span class='comment'>　　平平中仄<span class='rhythm'>韵</span>仄平平仄<span class='rhythm'>句</span>仄仄平仄<span class='rhythm'>韵</span>平平中中中仄<span class='rhythm'>句</span>平平仄仄<span class='rhythm'>句</span>平平平仄<span class='rhythm'>韵</span>仄仄平平中仄<span class='rhythm'>句</span>仄平中平仄<span class='rhythm'>韵</span></span></p>\r\n<p class='mSize'>念去去　千里烟波　暮霭沈沈楚天阔　<br />\r\n<span class='comment'>仄仄中<span class='rhythm'>读</span>平仄平平<span class='rhythm'>句</span>仄仄平平仄平仄<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　多情自古伤离别　更那堪　冷落清秋节　今宵酒醒何处　杨柳岸　晓风残月　此去经年　应是良辰　<br />\r\n<span class='comment'>　　中平仄仄平平仄<span class='rhythm'>韵</span>仄平平<span class='rhythm'>读</span>仄仄平平仄<span class='rhythm'>韵</span>中平仄中中仄<span class='rhythm'>句</span>中仄仄<span class='rhythm'>读</span>仄平平仄<span class='rhythm'>韵</span>仄仄平平<span class='rhythm'>句</span>平仄平平<span class='rhythm'>句</span></span></p>\r\n<p class='mSize'>好景虚设　便纵有　千种风情　更与何人说　<br />\r\n<span class='comment'>仄中平仄<span class='rhythm'>韵</span>仄仄仄<span class='rhythm'>读</span>中仄平平<span class='rhythm'>句</span>仄仄平平仄<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "寒蝉凄切。对长亭晚，骤雨初歇。都门帐饮无绪，方留恋处，兰舟催发。执手相看泪眼，竟无语凝咽。念去去。千里烟波，暮霭沈沈楚天阔。多情自古伤离别。更那堪。冷落清秋节。今宵酒醒何处，杨柳岸。晓风残月。此去经年，应是良辰，好景虚设。便纵有。千种风情，更与何人说。"
+  }
+}

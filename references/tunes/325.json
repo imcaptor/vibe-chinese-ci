@@ -1,0 +1,25 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 325,
+  "name": "定风波",
+  "type": "PingZeSwitch",
+  "aliases": [
+    "定风流",
+    "定风波令"
+  ],
+  "description": "唐教坊曲名。李珣词名《定风流》，张先词名《定风波令》。",
+  "writingCount": 330,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调六十二字，前段五句三平韵、两仄韵，后段六句四仄韵、两平韵",
+    "Comment": "此调以此词为正体，前后段以平韵为主。前段第三、四句、后段第一、二句、第四、五句又间入仄韵，宋词俱如此填。若苏词之不押仄韵，孙词之添字，蔡词、京词之摊破句法，曹词、李词、陈词之减字，皆变体也。\n按欧阳修词前段第三、四句“春睡觉来情绪恶，寂寞”，“寂”字仄声，谱内据之，其馀可平可仄悉参所采诸词。至阎选词换头句“扁舟短棹归兰浦”，“舟”字平声，“棹”字仄声，“兰”字平声。李珣词后段第四句“更饮一杯红霞酒”，“霞”字平声。宋元词无如此者，但附注以备参考。",
+    "SampleAuthor": "欧阳炯",
+    "SampleContent": "暖日閒窗映碧纱小池春水浸明霞数树海棠红欲尽争忍玉闺深掩过年华独凭绣床方寸乱肠断泪珠穿破脸边花邻舍女郎相借问音信教人羞道未还家",
+    "Definition": "◎●○○●●○平韵◎○⊙●●○○韵◎●◎○○●●仄韵⊙●韵◎○⊙●●○○平韵　　◎●◎○○●●换仄韵⊙●韵◎○⊙●●○○平韵⊙●◎○○●●换仄韵⊙●韵⊙○⊙●●○○平韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　暖日閒窗映碧纱　　小池春水浸明霞　数树海棠红欲尽　　争忍　玉闺深掩过年华　　<br />\r\n<span class='comment'>　　中仄平平仄仄平<span class='rhythm'>平</span><span class='rhythm'>韵</span>中平中仄仄平平<span class='rhythm'>韵</span>中仄中平平仄仄<span class='rhythm'>仄</span><span class='rhythm'>韵</span>中仄<span class='rhythm'>韵</span>中平中仄仄平平<span class='rhythm'>平</span><span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　独凭绣床方寸乱　　　肠断　泪珠穿破脸边花　　邻舍女郎相借问　　　音信　教人羞道未还家　　<br />\r\n<span class='comment'>　　中仄中平平仄仄<span class='rhythm'>换</span><span class='rhythm'>仄</span><span class='rhythm'>韵</span>中仄<span class='rhythm'>韵</span>中平中仄仄平平<span class='rhythm'>平</span><span class='rhythm'>韵</span>中仄中平平仄仄<span class='rhythm'>换</span><span class='rhythm'>仄</span><span class='rhythm'>韵</span>中仄<span class='rhythm'>韵</span>中平中仄仄平平<span class='rhythm'>平</span><span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "暖日閒窗映碧纱。小池春水浸明霞。数树海棠红欲尽。争忍。玉闺深掩过年华。独凭绣床方寸乱。肠断。泪珠穿破脸边花。邻舍女郎相借问。音信。教人羞道未还家。"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 105,
+  "name": "菩萨蛮",
+  "type": "PingZeSwitch",
+  "aliases": [
+    "重叠金",
+    "子夜歌",
+    "菩萨鬘",
+    "花间意",
+    "梅花句",
+    "花溪碧",
+    "晚云烘日"
+  ],
+  "description": "唐教坊曲名。《宋史·乐志》：女弟子舞队名。《尊前集》注“中吕宫”。《宋史·乐志》亦“中吕宫”。《正音谱》注“正宫”。唐苏鄂《杜阳杂编》云：“大中初，女蛮国入贡，危髻金冠，缨络被体，号菩萨蛮队，当时倡优遂制《菩萨蛮》曲，文士亦往往声其词。”孙光宪《北梦琐言》云：“唐宣宗爱唱《菩萨蛮》词，令狐绹命温庭筠新撰进之。”《碧鸡漫志》云：“今《花间集》温词十四首是也。”\n　　按温词有“小山重叠金明灭”句，名《重叠金》。南唐李煜词名《子夜歌》，一名《菩萨鬘》。韩淲词有“新声休写花间意”句，名《花间意》。又有“风前觅得梅花”句，名《梅花句》。有“山城望断花溪碧”句，名《花溪碧》。有“晚云烘日南枝北”句，名《晚云烘日》。",
+  "writingCount": 3428,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调四十四字，前后段各四句，两仄韵、两平韵",
+    "Comment": "此调以此词为正体，若朱词之不换韵，楼词之三声叶韵，皆变格也。\n按元好问《中州集乐府》王庭筠词“断肠人恨馀香换，尘暗琐窗春。小花檐月晓，屏掩半山青”，李晏、孟宗献俱有之，盖回文体也。每句一回，即同李白词体。或以单调另分一体者误。\n温庭筠词前段起句“牡丹花谢莺声歇”，“牡”字仄声。后段起句“无言匀睡脸”，“无”字平声。第二句“钗上蝶双舞”，“蝶”字仄声。结句“无憀独倚门”，“独”字仄声。谱内可平可仄据此，馀参下词。",
+    "SampleAuthor": "李白",
+    "SampleContent": "平林漠漠烟如织寒山一带伤心碧暝色入高楼有人楼上愁玉阶空伫立宿鸟归飞急何处是归程长亭更短亭",
+    "Definition": "⊙○◎●○○●仄韵⊙○◎●○○●韵◎●●○○平韵◎○⊙●○韵　　◎○○●●换仄韵◎●⊙○●韵⊙●●○○换平韵⊙○⊙●○韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　平林漠漠烟如织　　寒山一带伤心碧　暝色入高楼　　有人楼上愁　<br />\r\n<span class='comment'>　　中平中仄平平仄<span class='rhythm'>仄</span><span class='rhythm'>韵</span>中平中仄平平仄<span class='rhythm'>韵</span>中仄仄平平<span class='rhythm'>平</span><span class='rhythm'>韵</span>中平中仄平<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　玉阶空伫立　　　宿鸟归飞急　何处是归程　　　长亭更短亭　<br />\r\n<span class='comment'>　　中平平仄仄<span class='rhythm'>换</span><span class='rhythm'>仄</span><span class='rhythm'>韵</span>中仄中平仄<span class='rhythm'>韵</span>中仄仄平平<span class='rhythm'>换</span><span class='rhythm'>平</span><span class='rhythm'>韵</span>中平中仄平<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "平林漠漠烟如织。寒山一带伤心碧。暝色入高楼。有人楼上愁。玉阶空伫立。宿鸟归飞急。何处是归程。长亭更短亭。"
+  }
+}

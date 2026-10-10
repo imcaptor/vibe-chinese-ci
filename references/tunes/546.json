@@ -1,0 +1,24 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 546,
+  "name": "凤凰台上忆吹箫",
+  "type": "Ping",
+  "aliases": [
+    "忆吹箫"
+  ],
+  "description": "《列仙传拾遗》云：“萧史善吹箫，作鸾凤之声。秦穆公有女弄玉，善吹箫，公以妻之，遂教弄玉作凤鸣。居十数年，凤凰来止，公为作凤台，夫妇止其上。数年，弄玉乘凤，萧史乘龙去。”调名取此。《高丽史·乐志》一名《忆吹箫》。",
+  "writingCount": 269,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调九十七字，前段十句四平韵，后段九句四平韵",
+    "Comment": "此调以晁词为正体，若曹词以下，或添声、或减字，皆变体也。\n此词前后段第四句皆上三下四七字，前结三字一句、四字两句，后结三字一句、六字一句，权无染、侯寘、张炎、彭履道词俱如此填。\n按张词前段第四句“犹记得、琵琶半面”，“犹”字平声。权词后段第一句“应是飞琼弄玉”，“飞”字平声。侯词第二、三句“湘裙窄，一钩龙麝随鞍”，“一”字仄声，“龙”字平声。彭词第八、九句“石城晓，数声又递寒砧”，“石”字仄声。谱内可平可仄据此，馀参下词。惟张台卿词起二句平仄全异，故不校注。",
+    "SampleAuthor": "晁补之",
+    "SampleContent": "千里相思况无百里何妨暮往朝还又正是梅初淡泞莺未绵蛮陌上相逢缓辔风细细云日斑斑新晴好得意未妨行尽青山应携后房小妓来为我盈盈对舞花间便拌却松醪翠满蜜炬红残谁信轻鞍射虎清世里曾有人閒都休说帘外夜久春寒",
+    "Definition": "⊙●○○句◎○◎●句⊙○◎●○○韵◎●●读○○●●句⊙●○○韵◎◎⊙○◎●句⊙◎◎读⊙●○○韵⊙○●句◎◎●⊙句⊙●○○韵　　○⊙◎○◎●句○◎●句⊙○◎●○○韵●⊙●读○○●●句◎●○○韵⊙●⊙○◎●句⊙◎◎读⊙●○○韵⊙○●句⊙◎●●○○韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　千里相思　况无百里　何妨暮往朝还　又正是　梅初淡泞　莺未绵蛮　陌上相逢缓辔　风细细　<br />\r\n<span class='comment'>　　中仄平平<span class='rhythm'>句</span>中平中仄<span class='rhythm'>句</span>中平中仄平平<span class='rhythm'>韵</span>中仄仄<span class='rhythm'>读</span>平平仄仄<span class='rhythm'>句</span>中仄平平<span class='rhythm'>韵</span>中中中平中仄<span class='rhythm'>句</span>中中中<span class='rhythm'>读</span></span></p>\r\n<p class='mSize'>云日斑斑　新晴好　得意未妨　行尽青山　<br />\r\n<span class='comment'>中仄平平<span class='rhythm'>韵</span>中平仄<span class='rhythm'>句</span>中中仄中<span class='rhythm'>句</span>中仄平平<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　应携后房小妓　来为我　盈盈对舞花间　便拌却　松醪翠满　蜜炬红残　谁信轻鞍射虎　清世里　<br />\r\n<span class='comment'>　　平中中平中仄<span class='rhythm'>句</span>平中仄<span class='rhythm'>句</span>中平中仄平平<span class='rhythm'>韵</span>仄中仄<span class='rhythm'>读</span>平平仄仄<span class='rhythm'>句</span>中仄平平<span class='rhythm'>韵</span>中仄中平中仄<span class='rhythm'>句</span>中中中<span class='rhythm'>读</span></span></p>\r\n<p class='mSize'>曾有人閒　都休说　帘外夜久春寒　<br />\r\n<span class='comment'>中仄平平<span class='rhythm'>韵</span>中平仄<span class='rhythm'>句</span>中中仄仄平平<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "千里相思，况无百里，何妨暮往朝还。又正是。梅初淡泞，莺未绵蛮。陌上相逢缓辔，风细细。云日斑斑。新晴好，得意未妨，行尽青山。应携后房小妓，来为我，盈盈对舞花间。便拌却。松醪翠满，蜜炬红残。谁信轻鞍射虎，清世里。曾有人閒。都休说，帘外夜久春寒。"
+  }
+}

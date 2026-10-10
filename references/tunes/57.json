@@ -1,0 +1,30 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 57,
+  "name": "如梦令",
+  "type": "Ze",
+  "aliases": [
+    "忆仙姿",
+    "宴桃源",
+    "不见",
+    "比梅",
+    "古记",
+    "无梦令",
+    "如意令"
+  ],
+  "description": "宋苏轼词注：此曲本唐庄宗制，名《忆仙姿》，嫌其名不雅，故改为《如梦令》，盖因此词中有“如梦。如梦。”叠句也。周邦彦又因此词首句，改名《宴桃源》。沈会宗词有“不见。不见。”叠句，名《不见》。张辑词有“比著梅花谁瘦”句，名《比梅》。《梅苑》词名《古记》。《鸣鹤馀音》词名《无梦令》。魏泰双调词名《如意令》。",
+  "writingCount": 1023,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "单调三十三字，七句五仄韵、一叠韵",
+    "Comment": "此调以此词为正体，第五、六句例用叠句。若《梅苑》、《鸣鹤馀音》词皆变体也。\n按白居易词首句“前度小花静院”，“静”字仄声。沈会宗词第五、六句“不见。不见。”，两“不”字俱仄声。白词第七句“记取钗横鬓乱”，“鬓”字仄声。谱内可平可仄据此，其馀悉参后词。\n又按苏轼词第三句“唤起百舌儿”，“舌”字入声，宋元人此字从无用仄声者，当是以入作平，不可泛用上去声字。",
+    "SampleAuthor": "后唐庄宗",
+    "SampleContent": "曾宴桃源深洞一曲舞鸾歌凤长记别伊时和泪出门相送如梦如梦残月落花烟重",
+    "Definition": "⊙●⊙○⊙●韵◎●◎○⊙●韵⊙●●○○句⊙●◎○⊙●韵⊙●韵⊙●叠⊙●◎○⊙●韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　曾宴桃源深洞　一曲舞鸾歌凤　长记别伊时　和泪出门相送　如梦　如梦　残月落花烟重　<br />\r\n<span class='comment'>　　中仄中平中仄<span class='rhythm'>韵</span>中仄中平中仄<span class='rhythm'>韵</span>中仄仄平平<span class='rhythm'>句</span>中仄中平中仄<span class='rhythm'>韵</span>中仄<span class='rhythm'>韵</span>中仄<span class='rhythm'>叠</span>中仄中平中仄<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "曾宴桃源深洞。一曲舞鸾歌凤。长记别伊时，和泪出门相送。如梦。如梦。残月落花烟重。"
+  }
+}

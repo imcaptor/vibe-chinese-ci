@@ -1,0 +1,24 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 697,
+  "name": "永遇乐",
+  "type": "Ze",
+  "aliases": [
+    "消息"
+  ],
+  "description": "周密《天基节乐次》：“乐奏夹钟宫，第五盏，觱篥起《永遇乐慢》。”此调有平韵、仄韵两体。仄韵者始自北宋，《乐章集》注“林钟商”。晁补之词名《消息》，自注“越调”。平韵者始自南宋，陈允平创为之。",
+  "writingCount": 279,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调一百四字，前后段各十一句、四仄韵",
+    "Comment": "此调押仄韵者以此词为正体，宋词俱如此填。若晁词之前段结句六字折腰，柳词两首及张词、无名氏词之句读异同，皆变格也。\n此调前段第一句，如柳词之“熏风解愠”，无名氏词之“孤衾不暖”，第二句如柳词之“昼景晴和”，第八句如柳词之“华渚流虹，云拥双旌”，第十句如晁词之“想沈江、怨魄归来”，柳词之“拥朱幡、喜气欢声”，后段第八句，如柳词之“槐府登贤”，第十句如晁词之“算何须、楚泽雄风”，柳词之“祝尧龄、北极齐尊”，“且乘閒、弘阁长开”，平仄与诸家不同，谱内概不校注。\n按周紫芝词前段第五句“小荷擎雨”，“小”字仄声。张元干词第八句“访公良夜”，“访”字仄声。赵以夫词第九句“隐隐光华流渚”，“光”字平声。第十句“妆楼上、青瓜玉果”，“妆”字平声，“上”字仄声。周词第十一句“还对彩绦无语”，“还”字平声。赵师侠词后段第一句“绿丛红萼”，“红”字平声。晁补之词第二句“紫葳枝上”，“紫”字仄声。苏词别首第九句“夜永霜华侵被”，“霜”字平声。解昉词第十句“空赢得、斜阳暮草”，“空”字平声。谱内可平可仄据此，馀参所采仄韵词。\n苏轼别词前段第六句“月随人千里”，“随”字平声，赵以夫词“清绝无点暑”，“点”字仄声。张元干词前段结句“络”字、后段第六句“熟”字，俱入声。杨无咎词前段第十句“折一枝、钗头未插”，“一”字入声。张元干词后段第四句“何事十年”，“十”字入声。无名氏词第九句“万种断也无限”，“也”字仄声。赵彦端词第十句“问少陵、酣歌拓戟”，“少”字仄声。或以入作平，或与调不协，谱内亦概不校注。",
+    "SampleAuthor": "苏轼",
+    "SampleContent": "明月如霜好风如水清景无限曲港跳鱼圆荷泻露寂寞无人见紞如五鼓铮然一叶黯黯梦云惊断夜茫茫重寻无处觉来小园行遍天涯倦客山中归路望断故园心眼燕子楼空佳人何在空锁楼中燕古今如梦何曾梦觉但有旧欢新怨异时对黄楼夜景为余浩叹",
+    "Definition": "⊙●○○句◎○⊙●句⊙◎○●韵◎●○○句⊙○◎●句◎●○○●韵◎○◎●句⊙○◎●句◎●◎○⊙●韵◎○⊙读○○⊙●句◎⊙●⊙○●韵　　⊙○◎●句⊙⊙⊙●句◎●◎○○●韵◎●○○句⊙○⊙●句⊙●○○●韵◎○⊙●句⊙⊙◎●句◎●◎○○●韵◎○◎读⊙⊙◎●句◎○●●韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　明月如霜　好风如水　清景无限　曲港跳鱼　圆荷泻露　寂寞无人见　紞如五鼓　铮然一叶　<br />\r\n<span class='comment'>　　中仄平平<span class='rhythm'>句</span>中平中仄<span class='rhythm'>句</span>中中平仄<span class='rhythm'>韵</span>中仄平平<span class='rhythm'>句</span>中平中仄<span class='rhythm'>句</span>中仄平平仄<span class='rhythm'>韵</span>中平中仄<span class='rhythm'>句</span>中平中仄<span class='rhythm'>句</span></span></p>\r\n<p class='mSize'>黯黯梦云惊断　夜茫茫　重寻无处　觉来小园行遍　<br />\r\n<span class='comment'>中仄中平中仄<span class='rhythm'>韵</span>中平中<span class='rhythm'>读</span>平平中仄<span class='rhythm'>句</span>中中仄中平仄<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　天涯倦客　山中归路　望断故园心眼　燕子楼空　佳人何在　空锁楼中燕　古今如梦　何曾梦觉　<br />\r\n<span class='comment'>　　中平中仄<span class='rhythm'>句</span>中中中仄<span class='rhythm'>句</span>中仄中平平仄<span class='rhythm'>韵</span>中仄平平<span class='rhythm'>句</span>中平中仄<span class='rhythm'>句</span>中仄平平仄<span class='rhythm'>韵</span>中平中仄<span class='rhythm'>句</span>中中中仄<span class='rhythm'>句</span></span></p>\r\n<p class='mSize'>但有旧欢新怨　异时对　黄楼夜景　为余浩叹　<br />\r\n<span class='comment'>中仄中平平仄<span class='rhythm'>韵</span>中平中<span class='rhythm'>读</span>中中中仄<span class='rhythm'>句</span>中平仄仄<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "明月如霜，好风如水，清景无限。曲港跳鱼，圆荷泻露，寂寞无人见。紞如五鼓，铮然一叶，黯黯梦云惊断。夜茫茫。重寻无处，觉来小园行遍。天涯倦客，山中归路，望断故园心眼。燕子楼空，佳人何在，空锁楼中燕。古今如梦，何曾梦觉，但有旧欢新怨。异时对。黄楼夜景，为余浩叹。"
+  }
+}

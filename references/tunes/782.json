@@ -1,0 +1,31 @@
+{
+  "source": "https://open.cnkgraph.com/api/CiTune",
+  "fetchedAt": "2026-07-31",
+  "id": 782,
+  "name": "贺新郎",
+  "type": "Ze",
+  "aliases": [
+    "金缕歌",
+    "金缕衣",
+    "金缕曲",
+    "金缕词",
+    "乳燕飞",
+    "贺新凉",
+    "风敲竹",
+    "貂裘换酒"
+  ],
+  "description": "叶梦得词有“唱金缕”句，名《金缕歌》，又名《金缕曲》，又名《金缕词》。苏轼词有“乳燕飞华屋”句，名《乳燕飞》，有“晚凉新浴”句，名《贺新凉》，有“风敲竹”句，名《风敲竹》。张辑词有“把貂裘、换酒长安市”句，名《貂裘换酒》。",
+  "writingCount": 3073,
+  "approvedFormatIndex": 0,
+  "format": {
+    "FormatIndex": 0,
+    "Desc": "双调一百十六字，前后段各十句、六仄韵",
+    "Comment": "此调始自苏轼，因苏词后段“花前对酒”句少一字，且格调未谐，故以此词作谱。\n按前后段第四句，惟此词及苏词俱作拗体，馀各不同，若校注入谱，恐易混淆，填者任择一体宗之可也。\n又王迈词之前后两结句“数贤者，一不肖”，“清献后，又有赵”，又一首词后结“看卿等，上霄汉”，及谱中类列《豹隐纪谈》词之前后段第二句“荷东君、著意看承”，“怕仙槎、轻转旌旗”，吕词之前段第五句“桃花面皮似熟”，后段第四句“春山子规更切”，俱与调不合，概不校注平仄。\n按辛弃疾词前段第二句“染胭脂、苧罗山下”，“山”字平声。李玉词第六句“渐玉枕、腾腾梦醒”，“梦”字仄声。刘克庄词第七句“阁老凤楼修造手”，“凤”字仄声。辛词第八句“转越江、刬地迷归路”，“越”字仄声。后段第六句“为豁散、蛮烟瘴雨”，“瘴”字仄声。第八句“怕壮怀、激烈须歌者”，“壮”字仄声。谱内可平可仄据此，馀参所采诸词。\n宋自逊词前段起句“步自雪堂去”，“雪”字入声。辛词第三句“清泉一勺”，“一”字入声，此皆以入作平，谱内亦不校注平仄。",
+    "SampleAuthor": "叶梦得",
+    "SampleContent": "睡起流莺语掩苍苔房栊向晓乱红无数吹尽残花无人问惟有垂杨自舞渐暖霭初回轻暑宝扇重寻明月影暗尘侵上有乘鸾女惊旧恨镇如许江南梦断蘅皋渚浪黏天蒲萄涨绿半空烟雨无限楼前沧波意谁采蘋花寄取但怅望兰舟容与万里云帆何时到送孤鸿目断千山阻谁为我唱金缕",
+    "Definition": "⊙●○○●韵●○○读⊙○◎●句◎○○●韵○●○○○○●句⊙●⊙○◎●韵◎◎●读⊙○⊙●韵◎●⊙○○●●句●⊙○读◎●○○●韵⊙●●句◎○●韵　　⊙○◎●○○●韵●⊙⊙读⊙⊙◎⊙句◎○⊙●韵○●○○○○◎句⊙●◎○◎●韵●◎●读⊙○⊙●韵◎●⊙○○⊙●句●⊙○读◎●○○●韵⊙●●句◎○●韵",
+    "LeadingChars": null,
+    "FormatHtml": "<p class='mSize'>　　睡起流莺语　掩苍苔　房栊向晓　乱红无数　吹尽残花无人问　惟有垂杨自舞　渐暖霭　初回轻暑　<br />\r\n<span class='comment'>　　中仄平平仄<span class='rhythm'>韵</span>仄平平<span class='rhythm'>读</span>中平中仄<span class='rhythm'>句</span>中平平仄<span class='rhythm'>韵</span>平仄平平平平仄<span class='rhythm'>句</span>中仄中平中仄<span class='rhythm'>韵</span>中中仄<span class='rhythm'>读</span>中平中仄<span class='rhythm'>韵</span></span></p>\r\n<p class='mSize'>宝扇重寻明月影　暗尘侵　上有乘鸾女　惊旧恨　镇如许　<br />\r\n<span class='comment'>中仄中平平仄仄<span class='rhythm'>句</span>仄中平<span class='rhythm'>读</span>中仄平平仄<span class='rhythm'>韵</span>中仄仄<span class='rhythm'>句</span>中平仄<span class='rhythm'>韵</span></span></p>\r\n<br /><p class='mSize'>　　江南梦断蘅皋渚　浪黏天　蒲萄涨绿　半空烟雨　无限楼前沧波意　谁采蘋花寄取　但怅望　<br />\r\n<span class='comment'>　　中平中仄平平仄<span class='rhythm'>韵</span>仄中中<span class='rhythm'>读</span>中中中中<span class='rhythm'>句</span>中平中仄<span class='rhythm'>韵</span>平仄平平平平中<span class='rhythm'>句</span>中仄中平中仄<span class='rhythm'>韵</span>仄中仄<span class='rhythm'>读</span></span></p>\r\n<p class='mSize'>兰舟容与　万里云帆何时到　送孤鸿　目断千山阻　谁为我　唱金缕　<br />\r\n<span class='comment'>中平中仄<span class='rhythm'>韵</span>中仄中平平中仄<span class='rhythm'>句</span>仄中平<span class='rhythm'>读</span>中仄平平仄<span class='rhythm'>韵</span>中仄仄<span class='rhythm'>句</span>中平仄<span class='rhythm'>韵</span></span></p>\r\n",
+    "SamplePunctuated": "睡起流莺语。掩苍苔。房栊向晓，乱红无数。吹尽残花无人问，惟有垂杨自舞。渐暖霭。初回轻暑。宝扇重寻明月影，暗尘侵。上有乘鸾女。惊旧恨，镇如许。江南梦断蘅皋渚。浪黏天。蒲萄涨绿，半空烟雨。无限楼前沧波意，谁采蘋花寄取。但怅望。兰舟容与。万里云帆何时到，送孤鸿。目断千山阻。谁为我，唱金缕。"
+  }
+}
